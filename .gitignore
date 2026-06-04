@@ -1,0 +1,18 @@
+# OMC state files
+.omc/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build
+.bloop/
+.bleep/
+.metals/
+.bsp/
+target/
+
+# Misc
+.mcp.json
+.claude/

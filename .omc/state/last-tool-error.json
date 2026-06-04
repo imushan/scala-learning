@@ -1,7 +1,0 @@
-{
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"cd scala-learning && git remote set-url origin \\\"https://${GITHUB_TOKEN}@github.com/imushan/scala-learning.git\\\" && git push -u origin main 2>&1\",\"description\":\"Push to GitHub with token a...",
-  "error": "Exit code 1\n/bin/bash: line 1: cd: scala-learning: No such file or directory",
-  "timestamp": "2026-06-04T02:16:43.835Z",
-  "retry_count": 1
-}
